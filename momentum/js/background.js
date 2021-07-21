@@ -7,5 +7,3 @@ const bgImage = document.createElement("img");
 bgImage.src = `img/${chosenImage}`; 
 
 document.body.appendChild(bgImage);
-
-document.body.style.backgroundImage = url('file:///Users/ijaemin/Desktop/momentum/img/0.jpeg');
